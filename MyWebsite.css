@@ -1,0 +1,11 @@
+body {
+	background: grey;
+}
+.head {
+	background: rgba(220, 0, 0, 1);
+	border-radius: 20px;
+	color: white;
+}
+#Techs p{
+	background: rgba(250, 250, 250, 0.4);
+}
